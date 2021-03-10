@@ -1,9 +1,7 @@
-x-api/api-microcosm
-x-api/api-yizou
-x-server/server-microcosm
-x-server/server-yizou
-x-service/service-microcosm
-x-service/service-yizou
+.gradle/
+build/
+target/
+bin/
 
 ### STS ###
 .apt_generated
