@@ -1,0 +1,9 @@
+com\axisx\apiyizou\api\PosterApi.class
+com\axisx\apiyizou\dto\MediaDTO.class
+com\axisx\apiyizou\enums\MediaType.class
+com\axisx\apiyizou\dto\UpdatePosterDTO.class
+com\axisx\apiyizou\entity\MicrocosmPoster.class
+com\axisx\apiyizou\dto\ListPosterDTO.class
+com\axisx\apiyizou\vo\PosterVO.class
+com\axisx\apiyizou\dto\SavePosterDTO.class
+com\axisx\apiyizou\entity\MicrocosmPosterMedia.class

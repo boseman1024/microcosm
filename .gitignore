@@ -1,0 +1,32 @@
+x-api/api-microcosm
+x-api/api-yizou
+x-server/server-microcosm
+x-server/server-yizou
+x-service/service-microcosm
+x-service/service-yizou
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
